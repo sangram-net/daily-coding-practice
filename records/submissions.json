@@ -23,6 +23,18 @@
       "memory": 12224000,
       "timestamp": "1793989400",
       "file": "problems/python/14-longest-common-prefix-2190895955.py"
+    },
+    {
+      "id": "2190900761",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "question_id": "4",
+      "language": "python",
+      "status": "Accepted",
+      "runtime": 6,
+      "memory": 12364000,
+      "timestamp": "1793989803",
+      "file": "problems/python/4-median-of-two-sorted-arrays-2190900761.py"
     }
   ]
 }
