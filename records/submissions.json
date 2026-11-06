@@ -1,3 +1,16 @@
 {
-  "submissions": []
+  "submissions": [
+    {
+      "id": "2190859817",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "question_id": "1",
+      "language": "python",
+      "status": "Accepted",
+      "runtime": 1,
+      "memory": 12872000,
+      "timestamp": "1793986345",
+      "file": "problems/python/1-two-sum-2190859817.py"
+    }
+  ]
 }
